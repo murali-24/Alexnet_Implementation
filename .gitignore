@@ -29,6 +29,7 @@ share/python-wheels/
 dataset/
 checkpoints/
 extras/
+utils/tiny-imagenet-200-clean-local
 MANIFEST
 
 # PyInstaller
